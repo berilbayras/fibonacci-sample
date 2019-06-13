@@ -1,1 +1,6 @@
-# fibonacci-sample
+# MANTIK
+> Bu akış şeması bir kurala bağlı olarak tekrar eden fibonacci sayılarını kolayca bulmaya yarayan algoritmadır. 
+
+Her kutucuğun kendine ait bir görevi vardır o yüzden de şekilleri farklıdır. Başla komutuyla birlikte "sayıyı oku" denen yere dizinin kaçıncı terimine kadar olan değerleri istiyorsak yazarız ve algoritma döngüler şeklinde istediğimiz tüm değerleri yazar. X ve Y'ye başlangıç değerleri veririz sonra karşımıza denetim (karar) kutusu çıkar. Burada yazdığımız sayının x'e eşit ya da x'ten büyük olma koşulu vardır. Buna uyup uymadığına karar verilir. Uymuyorsa işlem bitirilir uyuyorsa devam edilir. Ardından ekrana x değeri yazdırılır dizinin ilk değeri aynı zamanda başlangıç değeri olduğundan her zaman 0'dır. Daha sonra z değeri yazılır o da x ve y'nin toplamıdır. Son aşamada ise yazılan eşitliklere göre değer atamaları yapılır ve bu işlem döngü şeklinde istenen sayıya ulaşılana kadar devam eder.
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
